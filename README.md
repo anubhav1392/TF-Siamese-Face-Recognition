@@ -1,10 +1,10 @@
 # TF-Siamese-Face-Recognition
-<B>The code is implemented using Tensorflow(version 1.14) </B>
+**The code is implemented using Tensorflow(version 1.14)**
 This is a simple Face recognition model that will predict wether the two images belong to same person or not.
 This model is trained to recognize face of 10 different people including my own but it can be extended to more people also.
-Loss Function used in this model is <B>Binary Cross entropy</B> but in code there's <B>Contrastive loss</B> also available to use.
+Loss Function used in this model is **Binary Cross entropy** but in code there's **Contrastive loss** also available to use.
 Dataset used for training is [AT&T face dataset](https://github.com/maheshreddykukunooru/Face_recognition/tree/master/att_faces)
-The Model is trained for 100 epochs and after testing it on unseen test images the ROC score is <B>0.83</B>
+The Model is trained for 100 epochs and after testing it on unseen test images the ROC score is **0.83**
 
 
 
