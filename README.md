@@ -14,3 +14,4 @@ The Model is trained for 100 epochs and after testing it on unseen test images t
 <B>Siamese Network Architecture</B><n>
 ![alt text](https://miro.medium.com/max/2524/1*8Nsq1BYQCuj9giAwltDubQ.png)
 
+**Updates will be made in the code for further improvement of model and it's evaluation metrics**
