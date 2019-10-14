@@ -4,7 +4,7 @@ This is a simple Face recognition model that will predict wether the two images 
 This model is trained to recognize face of 10 different people including my own but it can be extended to more people also.
 Loss Function used in this model is **Binary Cross entropy** but in code there's **Contrastive loss** also available to use.
 Dataset used for training is [AT&T face dataset](https://github.com/maheshreddykukunooru/Face_recognition/tree/master/att_faces)
-The Model is trained for 100 epochs and after testing it on unseen test images the ROC score is **0.83**
+The Model is trained for 100 epochs and after testing it on unseen test images the ROC score is **0.9**
 
 
 
